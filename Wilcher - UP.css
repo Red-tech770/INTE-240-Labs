@@ -1,0 +1,46 @@
+body {
+            background-color: rgb(191, 154, 252);
+        }
+
+        h1 {
+            color: rgb(222, 15, 39);
+            margin-left: 40px;
+        } 
+
+        * {
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+        } 
+
+        h1 {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        } 
+
+        .chorus {
+            color: rgb(228, 222, 239);
+            font-size: large;
+            font-family: "Courier New", Courier, monospace;
+        }
+
+        #I {
+            font-size: x-large;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        } 
+        
+        body > hr {
+            width: 600px;
+            margin-left: 0px;
+        } 
+
+        body a
+        {
+            color: rgb(23, 85, 110);
+        } 
+
+        hr + p {
+            font-size: inherit !important;
+            font-family: inherit !important;
+        } 
+
+        hr ~ p {
+            background-color: rgb(247, 135, 193);
+        }
