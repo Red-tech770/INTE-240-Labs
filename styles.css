@@ -1,0 +1,11 @@
+body {
+            height: 100px;
+            background-color: whitesmoke;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .quote {
+            font-size: x-large;
+            text-transform: uppercase;
+        }
